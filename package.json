@@ -1,6 +1,6 @@
 {
   "name": "ribcage-ios-nav-button",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "An ios7-style navbar button for ribcage",
   "main": "ribcage-ios-nav-button.js",
   "scripts": {

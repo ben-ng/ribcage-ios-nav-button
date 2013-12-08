@@ -1,0 +1,11 @@
+button.ribcage-ios-nav-btn {
+    display: block; /* show this only on small screens */
+
+    background: transparent;
+    color: #0078e7;
+    line-height: 1em;
+    font-size: 1em;
+    margin: 0 10px 0 0;
+    padding: 0;
+    height: 40px;
+}
